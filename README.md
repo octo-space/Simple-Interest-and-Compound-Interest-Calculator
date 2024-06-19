@@ -2,7 +2,7 @@
 
 This Python script is a simple calculator for both simple and compound interest. 🧮
 
-$[Example Image](example.png)
+[Example Image](example.png)
 
 ## Features:
 
